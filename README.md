@@ -5,7 +5,7 @@ script feito em python para automatização de backup de arquivos e diretórios.
 # como utilizar o Backup.py?
 
 >* 1º - É necessário ter uma máquina com um distribuição linux.
->* 2º - Tenha instalado o na versão 3.x, caso não tenha é necessário instalar o pacote **python3** em sua distribuição.
+>* 2º - Tenha instalado o Python na versão 3.x, caso não tenha é necessário instalar o pacote **python3** em sua distribuição.
 >* 3º - Configure o arquivo **config.ini** *instruções de configuração logo abaixo*.
 
 # configurando o config.ini
