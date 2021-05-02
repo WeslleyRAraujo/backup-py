@@ -16,7 +16,7 @@ script feito em python para automatização de backup de arquivos e diretórios.
 
 # comandos de utilização
 
-* 1º - Para fazer backup de *todos os arquivos* e diretórios configurados em [ways] digite: 
+* 1º - Para fazer backup de *todos os arquivos e diretórios* configurados em [ways] digite: 
 ~~~console
 user@pc:~$ python3 Backup.py -a
 ~~~
