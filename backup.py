@@ -101,13 +101,13 @@ def verify_params_for_backup(option, file_backup_or_folder_backup):
 
         elif option == "-d":
             backup(folder_flag)
-            log("-d", "")
+            log(option, "")
             print("\nO backup de todos os diretórios foram realizados, você pode visualizar esses elementos em : " +
                   "\033[1;33m" + str(backup_folder) + "\033[0;0m\n")
 
         elif option == "-f":
             backup(file_flag)
-            log("-f", "")
+            log(option, "")
             print("\nO backup de todos os arquivos foram realizados, você pode visualizar esses elementos em : " +
                   "\033[1;33m" + str(backup_folder) + "\033[0;0m\n")
 
@@ -122,7 +122,7 @@ def verify_params_for_backup(option, file_backup_or_folder_backup):
                 fileTemp = []
                 fileTemp.append(file_backup_or_folder_backup)
                 backup(fileTemp)
-                log("-f", file_backup_or_folder_backup)
+                log(option, file_backup_or_folder_backup)
                 print("\nO backup de " + "\033[1;33m" + str(file_backup_or_folder_backup) + "\033[0;0m" +
                       " foi realizado, você pode visualizar esse arquivo em : " + "\033[1;33m" + str(backup_folder) + "\033[0;0m\n")
 
@@ -130,7 +130,7 @@ def verify_params_for_backup(option, file_backup_or_folder_backup):
                 folder_temp = []
                 folder_temp.append(file_backup_or_folder_backup)
                 backup(folder_temp)
-                log("-d", file_backup_or_folder_backup)
+                log(option, file_backup_or_folder_backup)
                 print("\nO backup de " + "\033[1;33m" + str(file_backup_or_folder_backup) + "\033[0;0m" +
                       " foi realizado, você pode visualizar essa pasta em : " + "\033[1;33m" + str(backup_folder) + "\033[0;0m\n")
 
