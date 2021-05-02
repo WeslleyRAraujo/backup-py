@@ -15,38 +15,38 @@ script feito em python para automatização de backup de arquivos e diretórios.
 # comandos de utilização
 
 * 1º - Para fazer backup de *todos os arquivos* e diretórios configurados em [ways] digite: 
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py -a
-ˋˋˋ
+~~~
 
 * 2º - Para fazer backup apenas do *diretórios* configurados em [ways] digite: 
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py -d
-ˋˋˋ
+~~~
 
 * 3º - Para fazer backup apenas do *arquivos* configurados sem levar as pastas junto digite: 
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py -f
-ˋˋˋ
+~~~
 
 * 4º - Para fazer backup apenas de um *diretório específico* digite:
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py -d [CAMINHO DO DIRETÓRIO CONFIGURADO]
-ˋˋˋ
+~~~
 
 * 5º - Para fazer backup apenas de um *arquivo específico* digite:
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py -f [CAMINHO DO ARQUIVO CONFIGURADO]
-ˋˋˋ
+~~~
 
 * 6º - Para visualizar os arquivos e diretórios configurados digite:
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py
-ˋˋˋ
+~~~
 
 * 7º - Para ajuda digite:
-ˋˋˋconsole
+~~~console
 user@pc:~$ python3 Backup.py --help
-ˋˋˋ
+~~~
 
 
