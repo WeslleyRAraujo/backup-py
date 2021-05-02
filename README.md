@@ -21,12 +21,12 @@ script feito em python para automatização de backup de arquivos e diretórios.
 user@pc:~$ python3 Backup.py -a
 ~~~
 
-* 2º - Para fazer backup apenas do *diretórios* configurados em [ways] digite: 
+* 2º - Para fazer backup apenas dos *diretórios* configurados em [ways] digite: 
 ~~~console
 user@pc:~$ python3 Backup.py -d
 ~~~
 
-* 3º - Para fazer backup apenas do *arquivos* configurados sem levar as pastas junto digite: 
+* 3º - Para fazer backup apenas dos *arquivos* configurados sem levar as pastas junto digite: 
 ~~~console
 user@pc:~$ python3 Backup.py -f
 ~~~
