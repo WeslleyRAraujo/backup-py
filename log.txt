@@ -1,0 +1,129 @@
+
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files', '/home/files2']
+Data: 02/05/2021, 11:57:39
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files', '/home/files2']
+Data: 02/05/2021, 11:57:40
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:01:52
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:03:24
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:04:12
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:04:12
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:04:13
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:04:50
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:20
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:20
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:21
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:21
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:22
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:22
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:22
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:05:23
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Data: 02/05/2021, 12:06:19
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:02
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:03
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:03
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:03
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:04
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:04
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:04
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 12:08:04
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files', '/home/files2']
+Em: /home/sla
+Data: 02/05/2021, 12:08:05
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files', '/home/files2']
+Em: /home/sla
+Data: 02/05/2021, 12:08:06
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files', '/home/files2']
+Em: /home/sla
+Data: 02/05/2021, 12:08:06
+
+Foi realizado o Backup do(s) seguinte(s) elemento(s):
+['/home/files/teste3.txt', '/home/files/teste2.txt', '/home/files/teste.txt', '/home/files/teste1.txt', '/home/files2/test.txtesffs', '/home/files2/test.txtesf', '/home/files2/test.txte']
+Em: /home/sla
+Data: 02/05/2021, 15:04:39
