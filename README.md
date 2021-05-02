@@ -11,6 +11,7 @@ script feito em python para automatização de backup de arquivos e diretórios.
 # configurando o config.ini
 
 > em **[backupDir]** você irá encontrar o campo **dir=**, na frente dele é só colocar o caminho para onde você deseja que os arquivos de backup sejam direcionados, feito isso você já vai ter configurado o ponto de backup.
+> 
 > em **[ways]** você irá encontrar o campo **way1=**, nele você irá colocar o caminho do diretório em que o Backup será realizado ou o caminho completo do arquivo, para adicionar mais locais em que você queira realizar backup é śo escrever way+[número em sequência], exemplo = way1, way2, way3, ... , way30 e assim vai.
 
 # comandos de utilização
