@@ -57,11 +57,11 @@ def read_ini_file():
 def show_folders(directories):
     """Função responsável por listar os diretórios e arquivos"""
 
-    print("Você dispõe dos seguintes arquivos e pastas:\n")
-
     for dir in directories:
-
+        
         if os.path.exists(dir):
+
+            print("Você dispõe dos seguintes arquivos e pastas:\n")
 
             try:
                 files = [f for f in listdir(dir) if isfile(join(dir, f))]
@@ -77,13 +77,19 @@ def show_folders(directories):
             except:
                 print("\033[1;36m»»»» *FILE* " + dir + "\033[0;0m")
                 file_flag.append(dir)
+        else:
+            print("\nÉ possível que alguns pontos de backup não existam em sua máquina.")
+            exit()
 
 
 def backup(directories):
     """Função que recebe a pasta ou arquivo que o backup será realizado"""
-
-    for d in directories:
-        os.system("cp -r " + d + " " + str(backup_folder))
+    if os.path.isdir(str(backup_folder)):
+        for d in directories:
+            os.system("cp -r " + d + " " + str(backup_folder))
+    else:
+        print("\nO ponto de backup não foi encontrado.")
+        exit();
 
 
 def verify_params_for_backup(option, file_backup_or_folder_backup):
